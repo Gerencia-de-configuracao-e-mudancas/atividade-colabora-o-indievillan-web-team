@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --roxo: #06071B;
+    --azul: #26C6DE;
+    --rosa: #D42DC8;
+    --branco: #FFFFFF;
+}
+
+img {
+    max-width: 300px;
+}
